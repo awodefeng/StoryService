@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+	<string name="id">values-zh-rTW</string>
+	<string name="no_play_name">沒有故事</string>
+	<string name="slient_time_story">休眠時段內故事不能播放</string>
+</resources>
